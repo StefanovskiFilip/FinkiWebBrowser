@@ -34,3 +34,7 @@
 <img src="http://i.imgur.com/8gBvUjy.jpg"/>
 <br>
 <br>
+"Ninja mode" е всушност инкогнито мод каде историјата нема да биде сочувана.
+<img src="http://i.imgur.com/5mVUSv0.jpg"/>
+<br>
+<br>
